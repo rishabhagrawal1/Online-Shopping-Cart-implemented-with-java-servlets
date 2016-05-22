@@ -1,1 +1,1 @@
-# Online-Shopping-Cart-implemented-with-struts
+# Online-Shopping-Cart-implemented-with-servlets
